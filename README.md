@@ -20,7 +20,7 @@ A simple weather app that allows users to search for the current weather in thei
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/your-username/weather-app.git
+    git clone https://github.com/23f1001523/weather-kritika.git
     ```
 
 2. Navigate into the project directory:
